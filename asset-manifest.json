@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mbf3c-review/static/css/main.decde79e.css",
+    "main.js": "/mbf3c-review/static/js/main.3e21ce25.js",
+    "index.html": "/mbf3c-review/index.html",
+    "main.decde79e.css.map": "/mbf3c-review/static/css/main.decde79e.css.map",
+    "main.3e21ce25.js.map": "/mbf3c-review/static/js/main.3e21ce25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.decde79e.css",
+    "static/js/main.3e21ce25.js"
+  ]
+}
